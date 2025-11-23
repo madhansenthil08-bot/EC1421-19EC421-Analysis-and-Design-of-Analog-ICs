@@ -1,4 +1,4 @@
-# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+de# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 # DIFFERENTIATOR
 
 ## AIM:
@@ -20,7 +20,11 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 ## CIRCUIT DIAGRAM:
 
+<img width="1280" height="1038" alt="image" src="https://github.com/user-attachments/assets/98c6a336-25ec-4334-8d94-aec0fc943f75" />
+
 ## MODEL GRAPH:
+
+<img width="696" height="1280" alt="image" src="https://github.com/user-attachments/assets/b96c54e8-154c-4551-b883-f9df933cfbab" />
 
 ## PROCEDURE:
 ### Differentiator:
@@ -34,9 +38,14 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 ## TABULATION:
 
+<img width="1280" height="1218" alt="image" src="https://github.com/user-attachments/assets/780748d5-05ce-49cc-8481-6695a99a1161" />
+
 ## CALCULATIONS:
 
+
 ## GRAPH:
+
+<img width="1280" height="905" alt="image" src="https://github.com/user-attachments/assets/f0ec97df-6954-481c-8c5f-896ca5c8cd86" />
 
 ## RESULT:
 Thus the Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
