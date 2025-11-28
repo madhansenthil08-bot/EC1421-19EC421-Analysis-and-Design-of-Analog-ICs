@@ -21,8 +21,10 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
+![IMG_20251128_225300](https://github.com/user-attachments/assets/f294a240-6fb5-47fc-87b8-8e4fdb55af42)
 
 ## MODEL GRAPH:
+![IMG_20251128_225920_1](https://github.com/user-attachments/assets/025f224e-6289-40b3-8c7d-427e6f198a0b)
 
 ## PROCEDURE:  
 ## Differential amplifier 
@@ -40,10 +42,13 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 <img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" />
 
 ## TABULATION:
+<img width="1186" height="1280" alt="image" src="https://github.com/user-attachments/assets/c178d7d1-b6ce-4ba6-af98-aeba92d179dc" />
 
 ## CALCULATIONS:
+<img width="1280" height="863" alt="image" src="https://github.com/user-attachments/assets/4b4f60a0-3c17-4b1f-9aa7-4798bf33cc13" />
 
 ## GRAPH:
+<img width="940" height="1280" alt="image" src="https://github.com/user-attachments/assets/188cb9bf-1fc4-4530-99ff-78c704e02c3c" />
 
  ## RESULTS:
  Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and their 
