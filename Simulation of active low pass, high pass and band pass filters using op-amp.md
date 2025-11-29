@@ -22,13 +22,16 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
-### LOWPASS FILTER CIRCUIT DIAGRAM:
+### LOWPASS FILTER CIRCUIT DIAGRAM:![WhatsApp Image 2025-11-29 at 10 24 25_f42297e9](https://github.com/user-attachments/assets/f0ab526e-8ea7-4442-842d-527632b110a2)
+
 
 
 ### HIGHPASS FILTER CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-29 at 10 24 26_0f669a76](https://github.com/user-attachments/assets/f9caaa2e-3bac-451d-98bd-010564d5ec79)
 
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-29 at 10 24 27_a9e06985](https://github.com/user-attachments/assets/f7a60060-e0de-4033-9712-cba067a2b300)
 
 
 
@@ -36,11 +39,14 @@ LT-Spice
 
 ## OUTPUT GRAPH:
 
-### LOWPASS FILTER:
+### LOWPASS FILTER:![WhatsApp Image 2025-11-29 at 10 24 27_9853680f](https://github.com/user-attachments/assets/6ea1314d-a406-4b0a-b017-ada366e2ea2c)
 
-### HIGHPASS FILTER:
 
-### BANDPASS FILTER:
+### HIGHPASS FILTER:![WhatsApp Image 2025-11-29 at 10 24 28_fcb69a33](https://github.com/user-attachments/assets/a370302e-2ea9-4810-8689-3a88a43653b1)
+
+
+### BANDPASS FILTER:![WhatsApp Image 2025-11-29 at 10 24 28_fea6ff5e](https://github.com/user-attachments/assets/db2592f2-d0a0-4714-bbea-bd8b997f2c87)
+
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
